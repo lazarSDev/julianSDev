@@ -2,7 +2,7 @@
 <h1 align="center">👋 I am</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=fe9c2c&center=true&vCenter=true&width=600&lines=Julian+Schmidt;Senior+Full-Stack+Developer;Web+|+Unity+|+Blockchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=fe9c2c&center=true&vCenter=true&width=600&lines=Stankovic+Lazar;Senior+Full-Stack+Developer;Web+|+Unity+|+Blockchain" alt="Typing SVG" />
 </p>
 
 <ul>
